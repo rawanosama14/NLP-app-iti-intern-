@@ -53,12 +53,3 @@ Open `http://127.0.0.1:7861` in your browser to interact with the multi-tab AI s
 
 ---
 
-## 📄 Project Presentation & Documentation
-
----
-
-*Course 5: NLP Applications • Applied AI Program*
-
-```
-
-```
